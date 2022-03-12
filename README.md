@@ -3,8 +3,8 @@
 
 
 ## Go to App
-```
 https://makepizza-berkay.netlify.app
+```
 ```
 
 ## Project setup
